@@ -23,6 +23,6 @@ public class StudentMarksTest {
 
     @Test
     public void test4() {
-        assertNull("grade should lie between 0 to 100",(87));
+        assertNull("grade should lie between 0 to 100",StudentMarks.studentmarks(87));
     }
 }
