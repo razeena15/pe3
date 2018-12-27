@@ -14,4 +14,11 @@ public class VowelTest {
         String[] result= v.vowelRemover(new String[]{"India,United States, Germany,Egypt,czechoslovakia"});
         assertArrayEquals(new String[]{"Ind,Untd Stts,Grmny,Egypt,czchslvk"},result);
     }
+
+    @Test
+    public void vowelRemove1()
+    {
+        String[] result= v.vowelRemover(new String[]{" Germany,Egypt,czechoslovakia"});
+        assertArrayEquals(new String[]{"Grmny,Egypt,czchslvk"},result);
+    }
 }
