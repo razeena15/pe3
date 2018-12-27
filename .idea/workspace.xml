@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
+    <list default="true" id="3ed6ad20-af2e-4349-b1b3-42487cece21f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java" afterDir="false" />
+
     <list default="true" id="b0060c18-1874-4837-b2c0-59ddaf39c1d9" name="Default Changelist" comment="">
 
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -27,6 +31,7 @@
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/VowelTest.class" beforeDir="false" />
 
 
+
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,6 +46,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Dateofaweek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#88#89#0" expanded="true" />
+                <element signature="e#111#112#0" expanded="true" />
+
       <file pinned="false" current-in-tab="false">
 
 
@@ -114,20 +149,44 @@
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+              </folding>
+
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Vowel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+
             </state>
           </provider>
         </entry>
       </file>
+
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/DateofaweekTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/ConsecutiveNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -167,6 +226,7 @@
               <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
+
         </entry>
       </file>
     </leaf>
@@ -176,10 +236,12 @@
       <list>
         <option value="Class" />
 
+
         <option value="JUnit4 Test Class" />
 
 
         <option value="JUnit4 Test Class" />
+
 
       </list>
     </option>
@@ -190,6 +252,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+
+        <option value="$PROJECT_DIR$/src/test/java/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DateofaweekTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dateofaweek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Dateofaweek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/DateofaweekTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="183" />
+    <option name="y" value="179" />
+    <option name="width" value="959" />
+    <option name="height" value="721" />
+
 
         <option value="$PROJECT_DIR$/../../pe1/src/test/java/com/stackroute/IntegerSumCheckerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/ConsecutiveNumber.java" />
@@ -234,6 +314,7 @@
     <option name="width" value="695" />
 
     <option name="height" value="821" />
+
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -246,51 +327,99 @@
       <pane id="PackagesPane" />
 
 
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+
+
+
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+
             </path>
             <path>
-              <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
+
+            </path>
+            <path>
               <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
+
+              <item name="pe3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
+
+              <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignmentpe3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+
             </path>
             <path>
               <item name="pe3" type="b2602c69:ProjectViewProjectNode" />
@@ -299,6 +428,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+
             </path>
           </expand>
           <select />
@@ -309,6 +439,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545907219780" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/stackroute" />
+
 
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545907239974" />
 
@@ -338,6 +472,7 @@
       <recent name="com.stackroute" />
 
     </key>
+
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -352,6 +487,11 @@
     </option>
   </component>
 
+  <component name="RunManager" selected="JUnit.DateofaweekTest">
+    <configuration name="DateofaweekTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pe3" />
+
+
   <component name="RunManager">
     <configuration name="ChessBoardPatternTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pe3" />
@@ -360,6 +500,7 @@
     <configuration name="VowelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pe3" />
 
+
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.stackroute.*" />
@@ -367,16 +508,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
+
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.DateofaweekTest" />
+
 
       <option name="MAIN_CLASS_NAME" value="com.stackroute.ChessBoardPatternTest" />
 
       <option name="MAIN_CLASS_NAME" value="com.stackroute.VowelTest" />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
+    <configuration name="StudentMarksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pe3" />
+
     <configuration name="VowelTest.vowelRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pe3" />
+
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.stackroute.*" />
@@ -384,9 +534,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
+
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.StudentMarksTest" />
+
       <option name="MAIN_CLASS_NAME" value="com.stackroute.VowelTest" />
       <option name="METHOD_NAME" value="vowelRemove" />
       <option name="TEST_OBJECT" value="method" />
+
 
       <method v="2">
         <option name="Make" enabled="true" />
@@ -395,10 +549,15 @@
     <recent_temporary>
       <list>
 
+        <item itemvalue="JUnit.DateofaweekTest" />
+        <item itemvalue="JUnit.StudentMarksTest" />
+
+
         <item itemvalue="JUnit.ChessBoardPatternTest" />
 
         <item itemvalue="JUnit.VowelTest.vowelRemove" />
         <item itemvalue="JUnit.VowelTest" />
+
 
       </list>
     </recent_temporary>
@@ -408,15 +567,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b0060c18-1874-4837-b2c0-59ddaf39c1d9" name="Default Changelist" comment="" />
-      <created>1545888240161</created>
+      <changelist id="3ed6ad20-af2e-4349-b1b3-42487cece21f" name="Default Changelist" comment="" />
+      <created>1545890285779</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1545888240161</updated>
+      <updated>1545890285779</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
+
+    <history-entry file="StudentMarksTest - 2018.12.27 at 15h 19m 53s.xml">
+      <configuration name="StudentMarksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateofaweekTest - 2018.12.27 at 15h 54m 30s.xml">
+      <configuration name="DateofaweekTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateofaweekTest - 2018.12.27 at 16h 00m 09s.xml">
+      <configuration name="DateofaweekTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateofaweekTest - 2018.12.27 at 16h 01m 07s.xml">
+      <configuration name="DateofaweekTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24949563" />
+
     <history-entry file="VowelTest_vowelRemove - 2018.12.27 at 11h 59m 09s.xml">
       <configuration name="VowelTest.vowelRemove" configurationId="JUnit" />
     </history-entry>
@@ -442,6 +621,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23470074" />
 
 
+
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -456,6 +636,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
 
+
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
@@ -467,10 +648,13 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.328877" />
 
+
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
+
+
 
 
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -483,6 +667,63 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
+
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Dateofaweek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/DateofaweekTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -524,6 +765,7 @@
         <state relative-caret-position="465">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
 
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -531,9 +773,29 @@
       </provider>
     </entry>
 
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+
+
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+
+
 
     <entry file="file://$PROJECT_DIR$/../../pe1/src/test/java/com/stackroute/IntegerSumCheckerTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -655,7 +917,6 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
