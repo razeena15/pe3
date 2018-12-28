@@ -30,8 +30,15 @@ public class ExceptionPractice {
         catch(ArrayIndexOutOfBoundsException e){
             return true;
         }
+
+    public String main(){
+
+
+
+
+
+
+        return null;
     }
-
-
 
 }

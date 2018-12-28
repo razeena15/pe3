@@ -30,9 +30,9 @@ public class ExceptionPracticeTest {
     @Test
     public void testMain1(){
         //act
-        boolean expected = true;
+        String expected = "executed finally block";
         //arrange
-        boolean result = exceptionPractice.main(new int[]{23,45,65,44});
+        String result = exceptionPractice.main();
         //assert
         assertEquals(expected,result);
     }
@@ -40,11 +40,11 @@ public class ExceptionPracticeTest {
     @Test
     public void testMain2(){
         //act
-        boolean expected = false;
+        String expected = "i am in a finally";
         //arrange
-        boolean result = exceptionPractice.main(new int[]{23,45,65,44});
+        String result = exceptionPractice.main();
         //assert
-        assertNotEquals(expected,result);
+        assertEquals(expected,result);
     }
 
 }
