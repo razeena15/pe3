@@ -1,3 +1,5 @@
+package com.stackroute;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -8,7 +10,6 @@ public class ExceptionDemoTest {
 
     @Before
     public void setUp() throws Exception {
-
     }
 
     @After
@@ -19,21 +20,21 @@ public class ExceptionDemoTest {
     //Test case1 to check the NegativeArraySizeException
     public void TestCase1()
     {
-        assertEquals("Negative Array size Exception generated",ExceptionDemo.CheckNegativeArray());
+        assertEquals("Negative Array size Exception generated", ExceptionDemo.CheckNegativeArray(-4));
     }
 
     @Test
     //Test case2 to check the IndexOutOfBoundException
     public void TestCase2()
     {
-        assertEquals("ArrayIndexOutOfBounds Exception generated",ExceptionDemo.CheckIndexOutOfBounds());
+        assertEquals("ArrayIndexOutOfBounds Exception generated", ExceptionDemo.CheckIndexOutOfBounds(new int[]{10,20,30,40}));
     }
 
     @Test
     //Test case3 to check the NullPointerException
     public void TestCase3()
     {
-        assertEquals("Null Pointer Exception Generated",ExceptionDemo.CheckNullPointer());
+        assertEquals("Null Pointer Exception Generated", ExceptionDemo.CheckNullPointer("StackRoute"));
     }
     /*
     In this case I created one java file,named ExceptionDemo.java, but you can created any other java file,to call the implemented methods.

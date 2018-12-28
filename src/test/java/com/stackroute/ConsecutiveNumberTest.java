@@ -26,7 +26,7 @@ public class ConsecutiveNumberTest {
         java.lang.String expected = "non consecutive number";
 
         //arrange
-        java.lang.String result = consecutiveNumber.checkConsecutiveNumber("98 96 95 94 93");
+        java.lang.String result = consecutiveNumber.checkConsecutiveNumber("98,96,95,94,93");
 
         //assert
         assertEquals(expected,result);
@@ -38,7 +38,7 @@ public class ConsecutiveNumberTest {
         java.lang.String expected = "consecutive number";
 
         //arrange
-        String result = consecutiveNumber.checkConsecutiveNumber("54 53 52 51 50 49 48");
+        String result = consecutiveNumber.checkConsecutiveNumber("54,53,52,51,50,49,48");
 
         //assert
         assertEquals(expected,result);
@@ -50,7 +50,7 @@ public class ConsecutiveNumberTest {
         java.lang.String expected = "non consecutive number";
 
         //arrange
-        String result = consecutiveNumber.checkConsecutiveNumber("1 2 3 4 5 6 6");
+        String result = consecutiveNumber.checkConsecutiveNumber("1,2,3,4,5,6,6");
 
         //assert
         assertEquals(expected,result);

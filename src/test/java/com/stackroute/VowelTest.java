@@ -21,4 +21,5 @@ public class VowelTest {
         String[] result= v.vowelRemover(new String[]{" Germany,Egypt,czechoslovakia"});
         assertArrayEquals(new String[]{"Grmny,Egypt,czchslvk"},result);
     }
+
 }
